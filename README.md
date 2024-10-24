@@ -2,7 +2,7 @@
 
 This project is a tribute to Mr. Ratan Tata, one of India's most respected business leaders, and was inspired by community feedback. In this project, we will walk through building a Power BI Dashboard that includes interactive pages, visualizations, and dynamic features. The dashboard displays various data related to Tata Motors and stock data, all in an engaging, user-friendly format.
 
-https://github.com/thejay08/jay-Ratan_Tata_Project/blob/main/Screen%20Recording%202024-10-24%20172237.mp4
+https://github.com/user-attachments/assets/770b8915-757d-400d-bb4c-006489908ff6
 
 # The goal of this project is to:
 
