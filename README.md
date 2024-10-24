@@ -25,6 +25,8 @@ Features:
 
 # Slide 1: Welcome Page
 
+![Company Logo](https://github.com/thejay08/jay08_Zomato_Dashboard_Power_Bi/blob/main/Zomato_Dashboard_Image_1.png)
+
 •	Description: The first slide introduces the project and serves as the front page of the dashboard. It contains floating buttons that allow navigation to other sections of the project.
 
 •	Key Features: Navigation buttons, interactive design.
